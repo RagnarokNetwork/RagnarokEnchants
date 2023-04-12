@@ -1,0 +1,6 @@
+name: RagnarokEnchants
+version: '${project.version}'
+main: net.ragnaroknetwork.ragnarokenchants.RagnarokEnchants
+api-version: 1.8.8
+authors: [ Bloedarend ]
+description: HardCoded, block certain enchants
